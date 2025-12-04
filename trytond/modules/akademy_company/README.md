@@ -40,18 +40,4 @@ Caso encontre erros ou deseje obter suporte técnico, entre em contato pelos can
 - 📧 **E-mail:** [suporte@comunidadedosaber.ao](mailto:suporte@comunidadedosaber.ao)  
 - 💬 **WhatsApp:** [+244 926 585 345](https://wa.me/244926585345)
 
----
 
-## 🧩 Instalação
-
-### 📋 Requisitos
-
-Antes de iniciar, certifique-se de ter os seguintes componentes instalados:
-
-- [Tryton Server](https://www.tryton.org/)
-- [Tryton Client](https://www.tryton.org/)
-
-Além dos módulos base:
-
-```bash
-pip install git+https://github.com/zacariasjuliano/akademy_company
